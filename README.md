@@ -1,7 +1,7 @@
 # TCR_evo
 
 ## Overview
-TCR_evo is an innovative platform that integrates experimental validation data from mammalian cell surface display and deep sequencing with deep learning frameworks for high-throughput T-cell receptor (TCR) engineering. The platform was initially trained and optimized using unique experimental data from **single-point and two-point mutation libraries**, ultimately enabling accurate prediction of complex triple- and quadruple-point TCR mutations. This project specifically focuses on predicting TCR variants with enhanced binding to the influenza epitope 'HLA-A2-GILGFVFTL', demonstrating the platform's ability to identify optimized TCR sequences through iterative learning from experimental feedback.
+TCR_evo is an innovative platform that integrates experimental validation data from mammalian cell surface display and deep sequencing with deep learning frameworks for high-throughput T-cell receptor (TCR) engineering. The platform was initially trained and optimized using unique experimental data from **single-site and two-site mutational libraries**, ultimately enabling accurate prediction of binding specificities of multi-site mutations. This project specifically focuses on predicting TCR variants with enhanced binding to the influenza epitope 'GILGFVFTL–HLA-A2', demonstrating the platform's ability to identify optimized TCR sequences through iterative learning from experimental feedback.
 
 ## Installation
 
