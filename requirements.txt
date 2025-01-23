@@ -1,5 +1,5 @@
 fair-esm==2.0.0
-numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1668919096861/work
+numpy
 pandas==2.2.2
 scikit-learn==1.3.0
 torch==1.11.0
