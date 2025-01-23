@@ -1,7 +1,7 @@
 # TCR_evo
 
 ## Overview
-TCR-Evo is an innovative platform that combines mammalian cell surface display, deep sequencing, and deep learning frameworks for high-throughput engineering of T-cell receptors (TCRs) based on their binding affinity. This project focuses on predicting 'HLA-A2-GILGFVFTL' specificity from diverse TCR sequences to identify optimized TCR variants.
+TCR_evo is an innovative platform that combines mammalian cell surface display, deep sequencing, and deep learning frameworks for high-throughput engineering of T-cell receptors (TCRs) based on their binding affinity. This project focuses on predicting 'HLA-A2-GILGFVFTL' specificity from diverse TCR sequences to identify optimized TCR variants.
 
 
 ## Installation
