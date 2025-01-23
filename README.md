@@ -21,12 +21,12 @@ pip install -r requirements.txt
 ### Datasets
 - One-point-mutaion experiement data: 
 1. original: `train_data/experiment_data.csv`
-2. processed: `train_data\exp_train_fullseq_th0.csv`
+2. processed: `train_data/exp_train_fullseq_th0.csv`
 - Two-point-mutaion experiement data: 
-1. original: `test_data\exp_2point_mut.csv`
-2. processed: `test_data\twoPoint_mut_th0.csv`
+1. original: `test_data/exp_2point_mut.csv`
+2. processed: `test_data/twoPoint_mut_th0.csv`
 - Retraining data for other models:  `train_data/used_train_data.csv`
-- Testing data: `test_data\G9L_test_len8-18.csv`
+- Testing data: `test_data/G9L_test_len8-18.csv`
 
 ### Training the Models
 ```python
