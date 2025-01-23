@@ -8,7 +8,7 @@ TCR-Evo is an innovative platform that combines mammalian cell surface display, 
 
 ### Requirements
 - fair-esm==2.0.0
-- numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1668919096861/work
+- numpy
 - scikit-learn==1.3.0
 - torch==1.11.0
 - tqdm==4.66.1
